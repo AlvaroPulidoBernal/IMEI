@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BEA IMEI</string>
+    <string name="IMEI_string">IMEI</string>
+    <string name="IMEI_string2"> IMEI 2</string>
+    <string name="IP_enviar_dato"> IP Pc a enviar IMEI</string>
+    <string name="IMEI_Data"> IMEI Dispositivo</string>
+    <string name="Consultar_IMEI_button">Consultar IMEI</string>
+    <string name="Enviar_IMEI">Enviar IMEI</string>
+    <string name="IP">IP a conectar</string>
+</resources>
