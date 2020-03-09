@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void send (View v)
     {
-
         if (text_view_imei.getText().toString().equals("IMEI"))
         {
             Toast.makeText(this, "Consultar IMEI primero", Toast.LENGTH_SHORT).show();
@@ -88,8 +87,6 @@ public class MainActivity extends AppCompatActivity {
             //messageSender.execute(text_view_imei.getText().toString());
             messageSender.execute(builder.toString());
         }
-
-
     }
 
 
