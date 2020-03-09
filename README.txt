@@ -1,0 +1,1 @@
+Aplicación que obtiene el IMEI del dispositivo y la envia a un servidor al ingresar una IP válida
